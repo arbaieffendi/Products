@@ -4,73 +4,85 @@
         "id": 1,
         "name": "Naga Merah Super",
         "price": "20000",
-        "unit": "kg"
+        "unit": "kg",
+        "img": "https://cdn2.tstatic.net/kaltim/foto/bank/images/buah-naga_20170511_142824.jpg"
       },
       {
         "id": 2,
         "name": "Timun Suri",
         "price": "12000",
-        "unit": "pcs"
+        "unit": "pcs",
+        "img": "https://cdn2.tstatic.net/kaltim/foto/bank/images/buah-naga_20170511_142824.jpg"
       },
       {
         "id": 3,
         "name": "Terong Ungu Bulat",
         "price": "8000",
-        "unit": "kg"
+        "unit": "kg",
+        "img": "https://cdn2.tstatic.net/kaltim/foto/bank/images/buah-naga_20170511_142824.jpg"
       },
       {
         "id": 4,
         "name": "Wortel Brastagi",
         "price": "8500",
-        "unit": "kg"
+        "unit": "kg",
+        "img": "https://cdn2.tstatic.net/kaltim/foto/bank/images/buah-naga_20170511_142824.jpg"
       },
       {
         "id": 5,
         "name": "Zukini",
         "price": "14000",
-        "unit": "kg"
+        "unit": "kg",
+        "img": "https://cdn2.tstatic.net/kaltim/foto/bank/images/buah-naga_20170511_142824.jpg"
       },
       {
         "id": 6,
         "name": "Matoa",
         "price": "32000",
-        "unit": "kg"
+        "unit": "kg",
+        "img": "https://cdn2.tstatic.net/kaltim/foto/bank/images/buah-naga_20170511_142824.jpg"
       },
       {
         "id": 7,
         "name": "Melon Golden Baby",
         "price": "110000",
-        "unit": "pcs"
+        "unit": "pcs",
+        "img": "https://cdn2.tstatic.net/kaltim/foto/bank/images/buah-naga_20170511_142824.jpg"
       },
       {
         "id": 8,
         "name": "Telur Ayam Negeri",
         "price": "24000",
-        "unit": "kg"
+        "unit": "kg",
+        "img": "https://cdn2.tstatic.net/kaltim/foto/bank/images/buah-naga_20170511_142824.jpg"
       },
       {
         "id": 9,
         "name": "Pisang Ambon",
         "price": "18000",
-        "unit": "sisir"
+        "unit": "sisir",
+        "img": "https://cdn2.tstatic.net/kaltim/foto/bank/images/buah-naga_20170511_142824.jpg"
       },
       {
         "id": 10,
         "name": "Pisang Susu Sereh",
         "price": "18500",
-        "unit": "sisir"
+        "unit": "sisir",
+        "img": "https://cdn2.tstatic.net/kaltim/foto/bank/images/buah-naga_20170511_142824.jpg"
       },
       {
         "id": 11,
         "name": "Salak Pondoh",
         "price": "6000",
-        "unit": "kg"
+        "unit": "kg",
+        "img": "https://cdn2.tstatic.net/kaltim/foto/bank/images/buah-naga_20170511_142824.jpg"
       },
       {
         "id": 12,
         "name": "Tomat Cherry Merah",
         "price": "5500",
-        "unit": "pack"
+        "unit": "pack",
+        "img": "https://cdn2.tstatic.net/kaltim/foto/bank/images/buah-naga_20170511_142824.jpg"
       }
   ]
 }
