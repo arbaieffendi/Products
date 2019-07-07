@@ -1,0 +1,76 @@
+{
+  "catalog": [
+      {
+        "id": 1,
+        "name": "Naga Merah Super",
+        "price": "20000",
+        "unit": "kg"
+      },
+      {
+        "id": 2,
+        "name": "Timun Suri",
+        "price": "12000",
+        "unit": "pcs"
+      },
+      {
+        "id": 3,
+        "name": "Terong Ungu Bulat",
+        "price": "8000",
+        "unit": "kg"
+      },
+      {
+        "id": 4,
+        "name": "Wortel Brastagi",
+        "price": "8500",
+        "unit": "kg"
+      },
+      {
+        "id": 5,
+        "name": "Zukini",
+        "price": "14000",
+        "unit": "kg"
+      },
+      {
+        "id": 6,
+        "name": "Matoa",
+        "price": "32000",
+        "unit": "kg"
+      },
+      {
+        "id": 7,
+        "name": "Melon Golden Baby",
+        "price": "110000",
+        "unit": "pcs"
+      },
+      {
+        "id": 8,
+        "name": "Telur Ayam Negeri",
+        "price": "24000",
+        "unit": "kg"
+      },
+      {
+        "id": 9,
+        "name": "Pisang Ambon",
+        "price": "18000",
+        "unit": "sisir"
+      },
+      {
+        "id": 10,
+        "name": "Pisang Susu Sereh",
+        "price": "18500",
+        "unit": "sisir"
+      },
+      {
+        "id": 11,
+        "name": "Salak Pondoh",
+        "price": "6000",
+        "unit": "kg"
+      },
+      {
+        "id": 12,
+        "name": "Tomat Cherry Merah",
+        "price": "5500",
+        "unit": "pack"
+      }
+  ]
+}
